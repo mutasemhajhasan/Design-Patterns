@@ -1,8 +1,8 @@
 # Design-Patterns
-Design patterns examples 
-1- Singleton
-2- Factory 
-3- Facade
-4- Iterator
-5- Chain of Responsibility Pattern
-6- Strategy Pattern
+Design patterns examples: <br/>
+1- Singleton<br/>
+2- Factory <br/>
+3- Facade<br/>
+4- Iterator<br/>
+5- Chain of Responsibility Pattern<br/>
+6- Strategy Pattern<br/>
